@@ -1,7 +1,9 @@
 # OUTPUT:
 
 Password Strength: Very Strong
+
 Score: 7
+
 Feedback:
 
 # SCREENSHOT OF OUTPUT:
